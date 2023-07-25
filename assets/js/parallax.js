@@ -1,1 +1,0 @@
-No Content: https://weblearnbd.net/tphtml/portx-demo/portx/assets/js/parallax.js
