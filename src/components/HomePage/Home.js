@@ -196,52 +196,52 @@ class Home extends Component {
 
      
 
-            <div id='aboutus' class="section-full-wrap site-bg-gray tw-why-choose-area">
-                <div class="section-full p-t120 p-b120 tw-why-choose-area-top bg-cover bg-no-repeat" style={{backgroundImage: "url(images/background/bg-1.jpg)"}}>
-                    <div class="container">
+            <div id='aboutus' className="section-full-wrap site-bg-gray tw-why-choose-area">
+                <div className="section-full p-t120 p-b120 tw-why-choose-area-top bg-cover bg-no-repeat" style={{backgroundImage: "url(images/background/bg-1.jpg)"}}>
+                    <div className="container">
 
-                        <div class="tw-why-choose-section">
+                        <div className="tw-why-choose-section">
 
-                            <div class="row">
-                                <div class="col-xl-5 col-lg-5 col-md-12">
-                                    <div class="tw-why-choose-left">
+                            <div className="row">
+                                <div className="col-xl-5 col-lg-5 col-md-12">
+                                    <div className="tw-why-choose-left">
 
-                                        <div class="section-head left wt-small-separator-outer">
-                                            <div class="wt-small-separator site-text-primary">
+                                        <div className="section-head left wt-small-separator-outer">
+                                            <div className="wt-small-separator site-text-primary">
                                                 <div>Why Choose Us</div>
                                             </div>
-                                            <h2 class="wt-title">We Are Professional Logistics & cargo Agency</h2>
+                                            <h2 className="wt-title">We Are Professional Logistics & cargo Agency</h2>
                                         </div>
 
                                         <strong>Sed ut perspiciatis unde omnis iste natus error volup tatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa illo inventore.</strong>
-                                        <p class="section-head-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, que ipsa quae ab illo inventore veritatis quasi architecto beatae itae dicta sunt explicabo.
+                                        <p className="section-head-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, que ipsa quae ab illo inventore veritatis quasi architecto beatae itae dicta sunt explicabo.
                                             Nemo enim ipsam voluptate voluptas sitr atur aut odit aut fugit, sed quia consequuntur magni dolores is eos qui ratione voluptatem sequi nesciunt. </p>
-                                        <div class="tw-why-choose-left-bottom">
-                                            <a href="about-1.html" class="btn-half site-button"><span>Learn More</span><em></em></a>
-                                            <div class="sign-font">
+                                        <div className="tw-why-choose-left-bottom">
+                                            <a href="about-1.html" className="btn-half site-button"><span>Learn More</span><em></em></a>
+                                            <div className="sign-font">
                                                 <span>Signature</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="col-xl-7 col-lg-7 col-md-12">
-                                    <div class="tw-why-choose-right">
-                                        <div class="tw-why-choose-media1 shine-effect">
-                                            <div class="shine-box">
+                                <div className="col-xl-7 col-lg-7 col-md-12">
+                                    <div className="tw-why-choose-right">
+                                        <div className="tw-why-choose-media1 shine-effect">
+                                            <div className="shine-box">
                                                 {/* <img src="images/w-choose/pic1.jpg" alt=""/> */}
                                             </div>
                                         </div>
-                                        <div class="tw-why-choose-media2 slide-top shine-effect">
-                                            <div class="shine-box">
+                                        <div className="tw-why-choose-media2 slide-top shine-effect">
+                                            <div className="shine-box">
                                                 <img src="images/w-choose/pic2.jpg" alt=""/>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="tw-hilite-text-wrap2">
-                                <div class="tw-hilite-text">
+                            <div className="tw-hilite-text-wrap2">
+                                <div className="tw-hilite-text">
                                     <span>Logistics</span>
                                 </div>
                             </div>
@@ -249,13 +249,13 @@ class Home extends Component {
                     </div>
                 </div>
 
-                <div class="tw-any-help-section">
-                    <div class="container">
-                        <div class="tw-any-help-inner">
+                <div className="tw-any-help-section">
+                    <div className="container">
+                        <div className="tw-any-help-inner">
                             <img src="images/w-choose/qt-icon.png" alt="" />
-                            <span class="tw-24">24/7 Active Suport Team</span>
-                            <span class="tw-help-title">Need Immediate Support Or Any Help?</span>
-                            <span class="tw-help-number">(2 900 234 4241)</span>
+                            <span className="tw-24">24/7 Active Suport Team</span>
+                            <span className="tw-help-title">Need Immediate Support Or Any Help?</span>
+                            <span className="tw-help-number">(2 900 234 4241)</span>
                         </div>
                     </div>
                 </div>
@@ -999,7 +999,7 @@ class Home extends Component {
 
                     <div className="col-lg-8 col-md-12">
                       {/* <div className="contact-form-outer"> */}
-                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7326599895787!2d77.68675271049815!3d12.988943387275176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae116c279b184b%3A0x1367b7388421b7ed!2sLogicarts%20-%20Always%20On%20Time%20Delivery!5e0!3m2!1sen!2sin!4v1690355215930!5m2!1sen!2sin"  style={{border:0, width:'100%', height:'100%'}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                      <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7326599895787!2d77.68675271049815!3d12.988943387275176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae116c279b184b%3A0x1367b7388421b7ed!2sLogicarts%20-%20Always%20On%20Time%20Delivery!5e0!3m2!1sen!2sin!4v1690355215930!5m2!1sen!2sin"  style={{border:0, width:'100%', height:'100%'}} allowfullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                       {/* </div> */}
                     </div>
 

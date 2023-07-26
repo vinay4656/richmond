@@ -54,7 +54,7 @@ class Header extends Component {
 
                             <div className="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
 
-                                <ul className=" nav navbar-nav">
+                                <ul className="nav navbar-nav">
                                     <li className="has-child"><a href="#">Home</a>
                                     </li>
                                     <li className="has-child"><a href="#services">Services</a>
