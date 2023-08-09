@@ -69,7 +69,9 @@ class Home extends Component {
                         <span className="title-outline">Ready</span> To Move
                       </h2>
                       <p>There are many variations of passages of worem Ipsum available, but the majority</p>
-                      <a href="services-1.html" className="h-bnr-btn">Book Now</a>
+                      <a href="whatsapp://send?abid=919972276667&text=Hello!" className="h-bnr-btn">
+                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9972276667
+                      </a>
                     </div>
 
                   </div>
@@ -83,9 +85,9 @@ class Home extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="cross-line-box left up-down"><img src="images/main-slider/slider1/cross-line-box.png" style={{ filter: 'invert(1)' }} alt="#" /></div>
+                  {/* <div className="cross-line-box left up-down"><img src="images/main-slider/slider1/cross-line-box.png" style={{ filter: 'invert(1)' }} alt="#" /></div>
                   <div className="cross-line-box right up-down"><img src="images/main-slider/slider1/cross-line-box.png" alt="#" /></div>
-                  <div className="circle-left-top zoon-in-out"></div>
+                  <div className="circle-left-top zoon-in-out"></div> */}
                 </div>
               </div>
 
@@ -97,7 +99,9 @@ class Home extends Component {
                         <span className="title-outline">Around</span> The World
                       </h2>
                       <p>There are many variations of passages of worem Ipsum available, but the majority</p>
-                      <a href="services-1.html" className="h-bnr-btn">Book Now</a>
+                      <a href="whatsapp://send?abid=919972276667&text=Hello!" className="h-bnr-btn">
+                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9972276667
+                      </a>
                     </div>
 
                   </div>
@@ -111,9 +115,9 @@ class Home extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="cross-line-box left up-down"><img src="images/main-slider/slider1/cross-line-box.png" style={{ filter: 'invert(1)' }} alt="#" /></div>
+                  {/* <div className="cross-line-box left up-down"><img src="images/main-slider/slider1/cross-line-box.png" style={{ filter: 'invert(1)' }} alt="#" /></div>
                   <div className="cross-line-box right up-down"><img src="images/main-slider/slider1/cross-line-box.png" alt="#" /></div>
-                  <div className="circle-left-top zoon-in-out"></div>
+                  <div className="circle-left-top zoon-in-out"></div> */}
                 </div>
               </div>
 
@@ -125,8 +129,10 @@ class Home extends Component {
                       <h2>
                         <span className="title-outline">To Every</span> Direction
                       </h2>
-                      <p>There are many variations of passages of worem Ipsum available, but the majority</p>
-                      <a href="services-1.html" className="h-bnr-btn">Book Now</a>
+                      <p>Unwavering Deliveries, Infinite Directions.</p>
+                      <a href="whatsapp://send?abid=919972276667&text=Hello!" className="h-bnr-btn">
+                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9972276667
+                      </a>
                     </div>
 
                   </div>
@@ -140,9 +146,9 @@ class Home extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="cross-line-box left up-down"><img src="images/main-slider/slider1/cross-line-box.png" style={{ filter: 'invert(1)' }} alt="#" /></div>
+                  {/* <div className="cross-line-box left up-down"><img src="images/main-slider/slider1/cross-line-box.png" style={{ filter: 'invert(1)' }} alt="#" /></div>
                   <div className="cross-line-box right up-down"><img src="images/main-slider/slider1/cross-line-box.png" alt="#" /></div>
-                  <div className="circle-left-top zoon-in-out"></div>
+                  <div className="circle-left-top zoon-in-out"></div> */}
                 </div>
               </div>
 
@@ -285,8 +291,8 @@ class Home extends Component {
                         </div>
                       </div>
                       <div className="tw-why-choose-media2 slide-top shine-effect">
-                        <div className="shine-box" style={{ width: "453px", marginTop: '-36px' }}>
-                          <img src="map.png" style={{ width: '100%' }} alt="" />
+                        <div className="shine-box map2">
+                          <img src="map.png" className="map" alt="" />
                         </div>
                       </div>
                     </div>

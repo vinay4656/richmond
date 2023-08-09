@@ -6739,7 +6739,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 .btn-half {
     cursor: pointer;
-    background-color: #ff8a00;
+    background-color: #1e8fd0;
     z-index: 0;
     display: inline-block;
     position: relative;
@@ -6753,7 +6753,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
     bottom: -6px;
     content: '';
     width: 20px;
-    border: 2px solid #ff8a00;
+    border:2px solid #1e8fd0;
     transition: 0.5s all ease;
 }
 
@@ -11432,6 +11432,42 @@ select {
         font-size: 60px;
         line-height: 60px;
     }
+
+    .map{
+        width:70% !important;
+    }
+
+    .map2{
+        width: 100% !important;
+        margin-top: 0px !important;
+    }
+}
+
+.map2{
+    width: 453px;
+    margin-top: -36px;
+}
+.map{
+    width:100%;
+}
+
+
+.test{
+    background: white !important;
+    border: 1px solid #1e8fd0;
+}
+
+.test2{
+    color: #1e8fd0 !important;
+}
+
+.test:hover{
+    background: #1e8fd0 !important;
+    border: 1px solid white !important;
+}
+
+.test2:hover{
+    color: white !important;
 }
 
 /*# sourceMappingURL=style.css.map */
