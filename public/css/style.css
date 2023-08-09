@@ -95,7 +95,7 @@ This files [Table of contents] are outlined below
 }
 
 .site-bg-gray {
-    background-color: #f2faff;
+    background-color: #fff;
 }
 
 .site-bg-gray-light {
@@ -3346,6 +3346,9 @@ ol li {
     .header-style-3 .is-fixed.color-fill .main-bar {
         padding: 0px;
     }
+}
+.main-bar{
+    background-color: white !important;
 }
 
 .ap-btn {
@@ -6939,14 +6942,14 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .tw-why-choose-section .tw-why-choose-right .tw-why-choose-media2:after {
     position: absolute;
     content: '';
-    border-left: 40px solid #fff;
-    border-bottom: 40px solid #fff;
+    /* border-left: 40px solid #fff; */
+    /* border-bottom: 40px solid #fff; */
     left: -40px;
     bottom: -40px;
     height: 100%;
     width: 100%;
     z-index: -1;
-    box-shadow: 0px 40px 60px rgba(30, 143, 208, 0.7);
+    /* box-shadow: 0px 40px 60px rgba(30, 143, 208, 0.7); */
 }
 
 @media (max-width: 480px) {
@@ -8366,13 +8369,15 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 .twm-slider1-wrap .h-bnr-r-inner .h-bnr-media img {
     position: relative;
-    left: 0;
+    left: -15px;
+    /* left: -15vh; */
     top: 50px;
 }
 
 @media (max-width: 1199px) {
     .twm-slider1-wrap .h-bnr-r-inner .h-bnr-media img {
-        left: -38px;
+        left: -105px;
+        width: 69vh;
     }
 }
 
