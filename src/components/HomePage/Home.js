@@ -54,7 +54,7 @@ class Home extends Component {
             </div>
           </div>
         </div>
-        <div className="twm-slider1-wrap">
+        <div className="twm-slider1-wrap" style={{ marginTop: '0px', marginBottom: '-100px' }}>
 
 
           <div className="swiper twm-slider">
@@ -65,8 +65,8 @@ class Home extends Component {
                 <div className="h-banner-wrap">
                   <div className="h-banner-left">
                     <div className="h-bnr-top">
-                      <h2>
-                        <span className="title-outline">Ready</span> To Move
+                    <h2 style={{ fontSize: '100px' }}>
+                        <span className="title-outline" style={{ fontSize: '100px' }}>Ready</span> To Move
                       </h2>
                       <p>There are many variations of passages of worem Ipsum available, but the majority</p>
                       <a href="whatsapp://send?abid=919972276667&text=Hello!" className="h-bnr-btn">
@@ -95,8 +95,8 @@ class Home extends Component {
                 <div className="h-banner-wrap">
                   <div className="h-banner-left">
                     <div className="h-bnr-top">
-                      <h2>
-                        <span className="title-outline">Around</span> The World
+                    <h2 style={{ fontSize: '100px' }}>
+                        <span className="title-outline" style={{ fontSize: '100px' }}>Around</span> The World
                       </h2>
                       <p>There are many variations of passages of worem Ipsum available, but the majority</p>
                       <a href="whatsapp://send?abid=919972276667&text=Hello!" className="h-bnr-btn">
@@ -126,8 +126,8 @@ class Home extends Component {
                 <div className="h-banner-wrap">
                   <div className="h-banner-left">
                     <div className="h-bnr-top">
-                      <h2>
-                        <span className="title-outline">To Every</span> Direction
+                    <h2 style={{ fontSize: '100px' }}>
+                        <span className="title-outline" style={{ fontSize: '100px' }}>To Every</span> Direction
                       </h2>
                       <p>Unwavering Deliveries, Infinite Directions.</p>
                       <a href="whatsapp://send?abid=919972276667&text=Hello!" className="h-bnr-btn">
@@ -268,7 +268,7 @@ class Home extends Component {
                         <div className="wt-small-separator site-text-primary">
                           <div>About Us</div>
                         </div>
-                        <h2 className="wt-title">KNOW ABOUT 999 Logistics</h2>
+                        <h2 className="wt-title">KNOW ABOUT Richmond Logistics</h2>
                       </div>
 
                       {/* <strong>Sed ut perspiciatis unde omnis iste natus error volup tatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa illo inventore.</strong> */}
