@@ -122,11 +122,11 @@ class Home extends Component {
               </div>
 
 
-              <div className="swiper-slide">
+              <div className="swiper-slide active">
                 <div className="h-banner-wrap">
                   <div className="h-banner-left">
                     <div className="h-bnr-top">
-                    <h2 style={{ fontSize: '100px' }}>
+                      <h2 style={{ fontSize: '100px' }}>
                         <span className="title-outline" style={{ fontSize: '100px' }}>To Every</span> Direction
                       </h2>
                       <p>Unwavering Deliveries, Infinite Directions.</p>
@@ -139,18 +139,22 @@ class Home extends Component {
                   <div className="h-banner-right">
                     <div className="h-bnr-r-inner">
                       <div className="h-bnr-media">
-                        <img src="images/main-slider/slider1/truck.png" alt="#" className="slide-top" />
+                        <img src="images/main-slider/slider1/truck.png"  alt="#" className="slide-top" />
                       </div>
                       <div className="h-bnr-animation bg-cover bg-center bg-image-moving" style={{ backgroundImage: 'url(images/main-slider/slider1/bg2.jpg)' }}>
 
                       </div>
                     </div>
                   </div>
-                  {/* <div className="cross-line-box left up-down"><img src="images/main-slider/slider1/cross-line-box.png" style={{ filter: 'invert(1)' }} alt="#" /></div>
-                  <div className="cross-line-box right up-down"><img src="images/main-slider/slider1/cross-line-box.png" alt="#" /></div>
-                  <div className="circle-left-top zoon-in-out"></div> */}
+                  {/* <div className="cross-line-box left up-down"><img src="images/main-slider/slider1/cross-line-box.png" style={{ filter: 'invert(1)' }} alt="#" /></div> */}
+                  <div className="cross-line-box right up-down">
+                    {/* <img src="images/main-slider/slider1/cross-line-box.png" alt="#" /> */}
+                    </div>
+                  <div className="circle-left-top zoon-in-out"></div>
                 </div>
               </div>
+
+
 
 
 
