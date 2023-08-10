@@ -162,7 +162,7 @@ class Footer extends Component {
                                         <div className="logo-footer clearfix">
                                             <a href="index.html"><img src="images/logo-dark.png" style={{ filter: 'invert(1)' }} alt="" /></a>
                                         </div>
-                                        <p>Many desktop publishing packages and web page editors now use are dolra Ipsum as their default .</p>
+                                        <p>Richmond Logistics is platform that provides hyper-local, on-demand delivery solutions for businesses. With a mission to Build the fastest and most reliable logistics network</p>
                                         <ul className="social-icons">
                                             <li><a href="#" className="fa fa-facebook"></a></li>
                                             <li><a href="#" className="fa fa-twitter"></a></li>
