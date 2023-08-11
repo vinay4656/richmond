@@ -13,7 +13,7 @@ class Header extends Component {
                             <div className="logo-header">
                                 <div className="logo-header-inner logo-header-one">
                                     <a href="index.html">
-                                        <img style={{ width: "89%" }} src="images/logo.png" alt="" />
+                                        <img style={{ width: "149px", height:'49px' }} src="images/logo.png" alt="" />
                                     </a>
                                 </div>
                             </div>
@@ -27,6 +27,7 @@ class Header extends Component {
                             </button>
 
 
+                        
                             <div className="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
 
                                 <ul className=" nav navbar-nav">
@@ -34,17 +35,17 @@ class Header extends Component {
                                     </li>
                                     <li className="has-child"><a href="#services">Services</a>
                                         {/* <ul className="sub-menu">
-                                        <li><a href="about-1.html">About Us</a></li>
-                                        <li><a href="faq.html">Faq</a></li>
-                                        <li><a href="error-404.html">Error 404</a></li>
-                                    </ul> */}
+                                            <li><a href="about-1.html">About Us</a></li>
+                                            <li><a href="faq.html">Faq</a></li>
+                                            <li><a href="error-404.html">Error 404</a></li>
+                                        </ul> */}
                                     </li>
                                     <li className="has-child"><a href="#aboutus">About Us</a>
                                         {/* <ul className="sub-menu">
-                                        <li><a href="services-1.html">Services 1</a></li>
-                                        <li><a href="services-2.html">Services 2</a></li>
-                                        <li><a href="services-detail.html">Services Detail</a></li>
-                                    </ul> */}
+                                            <li><a href="services-1.html">Services 1</a></li>
+                                            <li><a href="services-2.html">Services 2</a></li>
+                                            <li><a href="services-detail.html">Services Detail</a></li>
+                                        </ul> */}
                                     </li>
 
 
@@ -54,14 +55,13 @@ class Header extends Component {
 
                                     <li>
                                         {/* <div className="div-tracking">
-                                        <a className="div-tracking-a" href="#" data-bs-toggle="modal" data-bs-target="#trackingModal">Tracking</a>
-                                    </div> */}
+                                            <a className="div-tracking-a" href="#" data-bs-toggle="modal" data-bs-target="#trackingModal">Tracking</a>
+                                        </div> */}
                                     </li>
 
                                 </ul>
 
                             </div>
-
 
                             <div className="extra-nav header-2-nav">
                                 {/* <div className="extra-cell">
