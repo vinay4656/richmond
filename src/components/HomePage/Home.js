@@ -54,7 +54,7 @@ class Home extends Component {
             </div>
           </div>
         </div>
-        <div className="twm-slider1-wrap" style={{ marginTop: '0px', marginBottom: '-100px' }}>
+        <div className="twm-slider1-wrap" style={{ marginTop: '10px', marginBottom: '-100px' }}>
 
 
           <div className="swiper twm-slider">
@@ -122,7 +122,7 @@ class Home extends Component {
               </div>
 
 
-              <div className="swiper-slide active">
+              <div className="swiper-slide ">
                 <div className="h-banner-wrap">
                   <div className="h-banner-left">
                     <div className="h-bnr-top">
