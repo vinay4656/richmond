@@ -69,8 +69,8 @@ class Home extends Component {
                         <span className="title-outline" style={{ fontSize: '100px' }}>Ready</span> To Move
                       </h2>
                       <p>There are many variations of passages of worem Ipsum available, but the majority</p>
-                      <a href="whatsapp://send?abid=919989360513&text=Hello!" className="h-bnr-btn">
-                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9989360513
+                      <a href="whatsapp://send?abid=919989360512&text=Hello!" className="h-bnr-btn">
+                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9989360512
                       </a>
                     </div>
 
@@ -99,8 +99,8 @@ class Home extends Component {
                         <span className="title-outline" style={{ fontSize: '100px' }}>Around</span> The World
                       </h2>
                       <p>There are many variations of passages of worem Ipsum available, but the majority</p>
-                      <a href="whatsapp://send?abid=919989360513&text=Hello!" className="h-bnr-btn">
-                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9989360513
+                      <a href="whatsapp://send?abid=919989360512&text=Hello!" className="h-bnr-btn">
+                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9989360512
                       </a>
                     </div>
 
@@ -130,8 +130,8 @@ class Home extends Component {
                         <span className="title-outline" style={{ fontSize: '100px' }}>To Every</span> Direction
                       </h2>
                       <p>Unwavering Deliveries, Infinite Directions.</p>
-                      <a href="whatsapp://send?abid=919989360513&text=Hello!" className="h-bnr-btn">
-                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9989360513
+                      <a href="whatsapp://send?abid=919989360512&text=Hello!" className="h-bnr-btn">
+                        <img style={{ width: '37px' }} src='images/whatsapp.png' /> +91 9989360512
                       </a>
                     </div>
 
@@ -317,7 +317,7 @@ class Home extends Component {
                 <img src="images/w-choose/qt-icon.png" alt="" />
                 <span className="tw-24">24/7 Active Suport Team</span>
                 <span className="tw-help-title">Need Immediate Support Or Any Help?</span>
-                <span className="tw-help-number">(9989360513)</span>
+                <span className="tw-help-number">(9989360512)</span>
               </div>
             </div>
           </div>
@@ -452,7 +452,7 @@ class Home extends Component {
                           <div className="c-info-column">
                             <div className="c-info-icon fa fa-mobile-phone custome-size"><span></span></div>
 
-                            <p><a href="tel:+216-761-8331">+91 9989360513</a></p>
+                            <p><a href="tel:+216-761-8331">+91 9989360512</a></p>
                             {/* <p><a href="tel:+216-761-8331">+2 900 234 3219</a></p> */}
                           </div>
 

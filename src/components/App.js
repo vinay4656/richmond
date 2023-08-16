@@ -85,7 +85,7 @@ class Header extends Component {
 
                                         {/* <div className="detail">
                                         <span className="title" style={{ color: 'black' }}>Call Us Now</span>
-                                        <span><a style={{ color: 'black', fontSize: '27px' }} href="https://wa.link/h0vceo" target='_blank'>+91 9989360513</a></span>
+                                        <span><a style={{ color: 'black', fontSize: '27px' }} href="https://wa.link/h0vceo" target='_blank'>+91 9989360512</a></span>
                                     </div>
                                     <div className="media">
                                         <img src="images/whatsapp.png" style={{ width: '44px', height: '44px' }} alt="#" />
